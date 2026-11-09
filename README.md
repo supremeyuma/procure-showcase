@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Role** | Solo — product design, architecture, backend API, frontend, deployment |
-| **Timeline** | 2026 – present · 1,628 commits |
+| **Timeline** | 2026 – present · 1,629 commits |
 | **Stack** | Laravel 13 · PHP 8.4 · Next.js 16 (App Router) · React · TypeScript · Tailwind · MySQL · Redis · Docker · GitHub Actions |
 | **Size** | 297 migrations · 14 department modules · deployed to a production VPS |
 
@@ -77,7 +77,7 @@ Clients, clearing agents, freight forwarders and service providers each get a pr
 ### Accounts
 - Invoices, bills, payables, receivables, receipts and payments
 - Bank accounts, statement import, bank reconciliation hub, payment runs and authorisations
-- Statutory obligations and remittances, financial years and archiving
+- Statutory obligations and remittances with scheduled monthly reminders, financial years and archiving
 - Expense claims, company loans, asset financials and payroll posting
 - Reports and exports, including PDF rendering with a table-fitting pipeline
 
